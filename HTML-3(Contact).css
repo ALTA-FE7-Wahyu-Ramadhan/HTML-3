@@ -81,9 +81,3 @@ span{
     color : orange
 }
 
-.imgKiri{
-    filter: invert(14%)
-    sepia(96%) saturate(1081%)
-    hue-rotate(193deg) brightness(84%)
-    contrast(88%) opacity(70%);
-}
